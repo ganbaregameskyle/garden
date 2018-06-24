@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/sprinkle.wav-d5b8c9db569d04f5a3c7f545220ea4cc.sample"
+
+[deps]
+
+source_file="res://sfx/sprinkle.wav"
+dest_files=[ "res://.import/sprinkle.wav-d5b8c9db569d04f5a3c7f545220ea4cc.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=true
+compress/mode=0
